@@ -1,4 +1,7 @@
 Personal Blog Application
+
+https://austinseger.github.io/austinsblog/index.html
+
 Description
 This is a simple personal blog application where users can create and view blog posts. Users can enter their username, the blog post title, and content through a form. The submitted data is saved to localStorage, and all stored blog posts are displayed on a separate page with a dark mode toggle option. The blog also features basic validation to ensure all form fields are filled out before submission. This project helps practice JavaScript DOM manipulation, localStorage usage, and handling light/dark themes.
 
