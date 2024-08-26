@@ -1,0 +1,40 @@
+/* blog.css: Styles for the blog page */
+.post {
+    border-bottom: 1px solid #ccc;
+    padding: 15px 0;
+}
+
+.dark-mode {
+    background-color: #121212;
+    color: #ffffff;
+}
+
+header, footer {
+    padding: 20px;
+    background-color: #f8f9fa;
+}
+
+.dark-mode header, .dark-mode footer {
+    background-color: #333;
+    color: #ffffff;
+}
+/* blog.css: Styles for the blog page */
+.post {
+    border-bottom: 1px solid #ccc;
+    padding: 15px 0;
+}
+
+.dark-mode {
+    background-color: #121212;
+    color: #ffffff;
+}
+
+header, footer {
+    padding: 20px;
+    background-color: #f8f9fa;
+}
+
+.dark-mode header, .dark-mode footer {
+    background-color: #333;
+    color: #ffffff;
+}
