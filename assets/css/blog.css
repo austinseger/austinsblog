@@ -1,4 +1,3 @@
-/* blog.css: Styles for the blog page */
 .post {
     border-bottom: 1px solid #ccc;
     padding: 15px 0;
@@ -18,7 +17,6 @@ header, footer {
     background-color: #333;
     color: #ffffff;
 }
-/* blog.css: Styles for the blog page */
 .post {
     border-bottom: 1px solid #ccc;
     padding: 15px 0;
